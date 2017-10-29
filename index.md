@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# A Jigsaw activity for Artificial Intelligence Techniques
+This is research material that lecturers can employ for teaching 1st year undergraduate students on different types of artificial intelligence techniques. The materials are meant to be used in a Jigsaw activity, although they could potentially be used in other activities too.
 
-You can use the [editor on GitHub](https://github.com/vicsana1/AIJigsaw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These materials assume no technical knowledge on the field and they normally consist of a brief motivation for the need of those techniques, and then a brief explanation on what these techniques are for and how they work. By the end, the students can also find 2 to 3 videos that they can watch to further understand the topics and kick off their research in the classroom.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Topics:
+This is the list of topics included so far in the activity. More will be included in the future as the activity evolves.
+- Machine Learning
+- Natural Language Processing
+- [Computer Vision](http://vicsana1.github.io/AIJigsaw/computer_vision/)
+- [Recommender Systems](http://vicsana1.github.io/AIJigsaw/recommender_systems/)
+- [Genetic Algorithms](http://vicsana1.github.io/AIJigsaw/genetic_algorithms/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vicsana1/AIJigsaw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Jigsaw Activity (Suggested organization)
+- Dividing students into groups of at least 5 students (5 minutes)
+- Letting students decide who will take each topic in the group (1 minute)
+- Students start their research by using the provided resources (20 minutes)
+- Students discuss on their findings within their groups (10 minutes)
+- Teams play a quizzing game (10 minutes)
