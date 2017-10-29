@@ -38,6 +38,8 @@ The **best solutions from our current population are selected**. Only these solu
 
 The new solutions are introduced in the population, with the hope that they will have improved their parents. This process of selection, and crossover and mutation operations continues for many generations. As we apply this process, solutions in the population tend to have a higher quality, as we applied a **survival of the fittest** strategy.
 
+# Research more on Genetic Algorithms!
+
 Now it is time to kick off your research. Watch the following videos and look for additional explanations on what genetic algorithms are:
 
 <p align="center">
