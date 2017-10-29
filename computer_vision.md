@@ -35,7 +35,7 @@ Now it is time to kick off your research. Watch the following videos and look fo
 <a href="https://www.youtube.com/watch?v=eQLcDmfmGB0"><img align="center" src="https://img.youtube.com/vi/eQLcDmfmGB0/0.jpg" alt="CV I"></a>
 </p>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=_4qduxGXK44"><img align="center" src="https://img.youtube.com/vi/_4qduxGXK44A/0.jpg" alt="CV II"></a>
+<a href="https://www.youtube.com/watch?v=_4qduxGXK44"><img align="center" src="https://img.youtube.com/vi/_4qduxGXK44/0.jpg" alt="CV II"></a>
 </p>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=PdtXbKSdJH4"><img align="center" src="https://img.youtube.com/vi/PdtXbKSdJH4/0.jpg" alt="CV III"></a>
