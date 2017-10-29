@@ -7,9 +7,9 @@ These materials assume no technical knowledge on the field and they normally con
 This is the list of topics included so far in the activity. More will be included in the future as the activity evolves.
 - Machine Learning
 - Natural Language Processing
-- [Computer Vision](http://vicsana1.github.io/AIJigsaw/computer_vision/)
-- [Recommender Systems](http://vicsana1.github.io/AIJigsaw/recommender_systems/)
-- [Genetic Algorithms](http://vicsana1.github.io/AIJigsaw/genetic_algorithms/)
+- [Computer Vision](http://vicsana1.github.io/AIJigsaw/computer_vision)
+- [Recommender Systems](http://vicsana1.github.io/AIJigsaw/recommender_systems)
+- [Genetic Algorithms](http://vicsana1.github.io/AIJigsaw/genetic_algorithms)
 
 ## Jigsaw Activity (Suggested organization)
 - Dividing students into groups of at least 5 students (5 minutes)
