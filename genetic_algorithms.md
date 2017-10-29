@@ -12,7 +12,9 @@ The problem faced by the business consists of finding the route that takes the l
 
 Very often, computers have to **solve problems that have an almost infinite number of possible solutions**. However, **not all of the solutions are equally good**. Thus, we would like the computer to **find the best possible solution**. These types of problem are called **search & optimization problems**. Watch the video below to understand more about what is an optimization problem.
 
+<p align="center">
 <a href="https://www.youtube.com/watch?v=Q2dewZweAtU"><img align="center" src="https://img.youtube.com/vi/Q2dewZweAtU/0.jpg" alt="Optimization video"></a>
+</p>
 
 # Optimization algorithms
 As mentioned in the video, optimization algorithms are used to solve optimization problems: problems with potentially many solutions and different quality. 
@@ -33,5 +35,22 @@ Genetic algorithms are **anytime and heuristic** algorithms that can be applied 
 The **best solutions from our current population are selected**. Only these solutions undergo mating and mutation operations, inspired by a **survival of the fittest** strategy:
 - Pairs of best solutions become parents and they are combined to create a new solution or child. The idea is that the child solution will inherit parts from both parents. The assumption taken is that, if both parents have good quality, a child solution that combines parts of both parents will also have a good or an even better quality. This operation is called **crossover**.
 - The best solutions are mutated by introducing small changes in parts of their solutions. The assumption is that, if the original solution had good quality, a small variation in part of that solution should result in a similar or even better quality. This operation is called **mutation**.
+
 The new solutions are introduced in the population, with the hope that they will have improved their parents. This process of selection, and crossover and mutation operations continues for many generations. As we apply this process, solutions in the population tend to have a higher quality, as we applied a **survival of the fittest** strategy.
+
+Now it is time to kick off your research. Watch the following videos and look for additional explanations on what genetic algorithms are:
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=ziMHaGQJuSI"><img align="center" src="https://img.youtube.com/vi/ziMHaGQJuSI/0.jpg" alt="2 minutes paper on GA"></a>
+</p>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=cxweR4i0ejA"><img align="center" src="https://img.youtube.com/vi/cxweR4i0ejA/0.jpg" alt="How GA work"></a>
+</p>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=bBt0imn77Zg"><img align="center" src="https://img.youtube.com/vi/bBt0imn77Zg/0.jpg" alt="Karl Simms evolving creatures"></a>
+</p>
+
+
+
+
 
