@@ -1,0 +1,17 @@
+# Some problems are too difficult to solve by manually coding
+So far you have taken your first baby steps into programming and creating your own software. As you may know by now, software is created by specifying how to solve a problem step-by-step, or instruction by instruction. We have to define the sequence of steps that the computer would need to follow to solve the problem. Now imagine the following complex application.
+
+<p align="center">
+<img src="https://github.com/vicsana1/AIJigsaw/blob/master/ml1.png" width="80%">
+</p>
+
+Let's say that we need to build a software application that automatically controls the entrance to the European Parliament by using a video surveillance camera. Clearly, this application would need to take a photo of whoever is standing in front of the door and identify if that person is part of the Eurochamber. So, the application would need to open the door in case that the individual is authorized such as Theresa May, Françoise Hollande, Angela Merkel or Mariano Rajoy. On the other hand, it should not open the door when an unauthorized individual attempts to enter the parliament.
+
+<p align="center">
+<img src="https://github.com/vicsana1/AIJigsaw/blob/master/ml2.png" width="80%">
+</p>
+
+For that purpose, you would need to make your software identify familiar faces in images. It sounds simple, right? We just try to exactly match the face with our records. But it is actually more complex that it seems. Faces can be presented in a multitude of positions (i.e, different degrees of inclination), show a vast variety of expressions (i.e., anger, fear, happiness, neutral expressions), or even show stylistic changes (i.e., different haircuts, glasses on/off, moustaches, etc). Obviously, we want to make our software robust to all of these situations. If you recall your programming lessons, you can always consider special scenarios by using *if-statements*. However, how many *if-statements* would you need to recognize one's face? There is an almost infinite number of possible ways in which one single face can be presented!!! That seems like too many cases to be programmed. And even if we could account for all of them, how do you tell a computer to identify a face in an image? Yes, your brain knows how to do it, but can you translate that into a sequence of steps? The answer to this question is not trivial, as we are not even sure how we recognize faces. It is pure instinct for us.
+
+# Teaching software/machines how to learn: Machine learning
+Sometimes, we cannot tell a computer how to solve a problem, but we can specify how a computer **could learn to solve a problem**. This is the foundation of machine learning. In machine learning, we **teach computers how to learn by looking at examples or data**. The rationale behind this approach is that **data often shows patterns that are likely to help us to solve a particular problem**. For instance, in the previous example, Angela may show very different expressions. However, it is also true that in many of these images there are going to be similar facial features such as the type of nose, particular wrinkles, shapes, and so forth that can help us to tell if the image has Angela on it. Instead of programming how Angela's face can be presented in every single situation, we rather write steps that a computer can take to learn to identify those interesting patterns. We call these steps a **machine learning algorithm**.
